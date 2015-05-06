@@ -1,0 +1,120 @@
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Principal.resources
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarListadoMensual.resources
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionActividad.resources
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionCargo.resources
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionDepartamento.resources
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionMiembro.resources
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionParticipantes.resources
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionPlanificador.resources
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionSesion.resources
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionVotacion.resources
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Properties.Resources.resources
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\inis\Documents\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarVotacion.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionVotacion.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Principal.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarListadoMensual.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionActividad.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionCargo.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionDepartamento.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionMiembro.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionParticipantes.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionPlanificador.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionSesion.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarVotacion.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Properties.Resources.resources
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pablo\Desktop\ALICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionVotacion.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Principal.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarListadoMensual.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionActividad.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionCargo.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionDepartamento.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionMiembro.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionParticipantes.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionPlanificador.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionSesion.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarVotacion.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Properties.Resources.resources
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pablo\Desktop\APLICADA\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionVotacion.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Principal.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarListadoMensual.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionActividad.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionCargo.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionDepartamento.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionMiembro.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionParticipantes.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionPlanificador.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionSesion.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarVotacion.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Properties.Resources.resources
+C:\Users\Pablo\Desktop\APLICADA\2014\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\System.Data.SQLite.dll
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionVotacion.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Principal.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarListadoMensual.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionActividad.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionCargo.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionDepartamento.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionMiembro.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionParticipantes.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionPlanificador.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionSesion.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarVotacion.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Properties.Resources.resources
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\asus\Desktop\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\bin\Debug\System.Data.SQLite.dll
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionVotacion.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Principal.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarListadoMensual.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionActividad.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionCargo.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionDepartamento.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionMiembro.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionParticipantes.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionPlanificador.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GestionSesion.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.GenerarVotacion.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo_2013.Properties.Resources.resources
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FORMATEO\Desktop\MATERIAS\Aplicada\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.exe
+D:\FORMATEO\Desktop\MATERIAS\Aplicada\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.pdb
