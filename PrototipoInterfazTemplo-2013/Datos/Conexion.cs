@@ -2,15 +2,36 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Data.SqlClient;
-using System.Data.SQLite;
+//using System.Data.SqlClient;
+//using System.Data.SQLite;
+using System.Threading.Tasks;
+using MySql.Data;
+using MySql.Data.MySqlClient;
 using System.Data;
+
 
 namespace PrototipoInterfazTemplo_2013.Datos
 {
     class Conexion
     {
-        public static string cadena = @"Data Source=../../Datos/TemploDB.s3db";
+        private string servidor = "localhost";
+        private string puerto = "3306";
+        private string usuario = "root";
+        private string pass = "mariotejerina240991";
+        private string db = "templo";
+        static public string strConexion;
+
+        public Conexion()
+        {
+            strConexion = string.Format("server={0});" +
+                "port={1}" +
+                "user id={2}; password={3}" +
+                "database={4}; pooling=false;" +
+                "Allow Zero Datetime=False;Convert Zero Datetime=True",
+                this.servidor, this.puerto, this.usuario, this.pass, this.db);
+        }
+
+        /*public static string cadena = @"Data Source=../../Datos/TemploDB.s3db";
         private static SQLiteConnection connection = new SQLiteConnection(Conexion.cadena);
         private static Boolean blockConexion;
                     
@@ -48,8 +69,8 @@ namespace PrototipoInterfazTemplo_2013.Datos
         {
             set { connection = value; }
             get { return connection; }
-        }
+        }*/
 
-        
+
     }
 }
