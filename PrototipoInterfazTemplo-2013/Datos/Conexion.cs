@@ -10,7 +10,7 @@ namespace PrototipoInterfazTemplo_2013.Datos
 {
     class Conexion
     {
-        public static string cadena = @"Data Source=../../Datos/TemploDB.s3db";
+        public static string cadena = @"Data Source=../../Datos/Templo.s3db";
         private static SQLiteConnection connection = new SQLiteConnection(Conexion.cadena);
         private static Boolean blockConexion;
                     
