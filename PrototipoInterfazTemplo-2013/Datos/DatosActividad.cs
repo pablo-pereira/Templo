@@ -12,9 +12,99 @@ using PrototipoInterfazTemplo_2013.Entidades;
 
 namespace PrototipoInterfazTemplo_2013.Datos
 {
-    class DatosActividad
+    public class DatosActividad:Conexion
     {
-        public static BindingList<Actividad> GetAll()
+        //propiedades de la clase Actividad que representan los campos de nuestra tabla
+
+        public int ID { get; set; }
+        public int idDepartamento {get; set;}
+        public string Nombre { get; set; }
+        public string Descripcion { get; set; }
+        public int Requeridos { get; set; }
+        public int Dificultad { get; set; }
+
+        //constructor que inicializa las propiedades de la clase
+        public DatosActividad(int _ID=0, int _idDepartamento=0, string _Nombre="", string _Descripcion="", int _Requeridos=0, int _Dificultad=0)
+        {
+            this.ID = _ID;
+            this.idDepartamento = _idDepartamento;
+            this.Nombre = _Nombre;
+            this.Descripcion = _Descripcion;
+            this.Requeridos = _Requeridos;
+            this.Dificultad = _Dificultad;
+        }
+
+        //constructor sobrecargado de nuestra clase
+        public DatosActividad()
+        { 
+
+        }
+
+        //metodos para agregar registros a la base
+        public string Add()
+        {
+            try
+            {
+                string strQuery = String.Format("insert into actividades(idDepartamento,Nombre, Descripcion, Requeridos, Dificultad)" + "value ('{0}','{1}','{2}','{3}','{4}')", this.idDepartamento, this.Nombre, this.Descripcion, this.Requeridos, this.Dificultad);
+
+                Ejecutar(strQuery, "insert");
+                return "";
+            }
+            catch(Exception ex)
+            {
+                return ex.ToString();
+            }
+        }
+
+
+        public string Delete()
+        {
+            try
+            {
+                string strQuery = String.Format("delete from actividades where ID={0}", this.ID);
+                Ejecutar(strQuery, "delete");
+                return "";
+            }
+            catch(Exception ex)
+            {
+                return ex.ToString();
+            }
+        }
+
+
+        public string Update()
+        {
+            try
+            {
+                string strQuery = String.Format("update actividades set idDepartamento={0}, Nombre={1}, Descripcion={2}, Requeridos={3}, Dificultad={4} where Id={}",
+                    this.idDepartamento, this.Nombre, this.Descripcion, this.Requeridos, this.Dificultad, this.ID);
+                Ejecutar(strQuery, "update");
+                return "";
+            }
+            catch (Exception ex)
+            {
+                return ex.ToString();
+            }
+        }
+
+
+        //metodo para seleccionar registros
+        public DataTable select()
+        {
+            DataTable dt = new DataTable();
+            try
+            {
+                string strQuery = String.Format("select * from actividades");
+                dt = Ejecutar(strQuery, "select");
+                return dt;
+            }
+            catch (Exception ex)
+            {
+                return dt;
+            }
+        }
+
+        /*public static BindingList<Actividad> GetAll()
         {
             BindingList<Actividad> lista = new BindingList<Actividad>();
 
@@ -124,6 +214,6 @@ namespace PrototipoInterfazTemplo_2013.Datos
                 MessageBox.Show(e.Message);
                 return actividad;
             }
-        }
+        }*/
     }
 }

@@ -31,6 +31,25 @@ namespace PrototipoInterfazTemplo_2013.Datos
                 this.servidor, this.puerto, this.usuario, this.pass, this.db);
         }
 
+        public DataTable Ejecutar(string _query, string _type = "insert")
+        {
+            MySqlConnection cnx = new MySqlConnection(strConexion);
+            cnx.Open();
+            MySqlCommand cmd = new MySqlCommand(_query, cnx);
+            if (_type == "select")
+            {//este if sirce para ejecutar los comandos de select
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                DataSet ds = new DataSet();
+                da.Fill(ds);
+                dtActividad = ds.Tables[0];
+            }
+            else {//este else sirve para ejecutar los comandos insert, update, delete
+                cmd.ExecuteNonQuery();
+            }
+            cnx.Close();
+            return dtActividad;
+        }
+
         /*public static string cadena = @"Data Source=../../Datos/TemploDB.s3db";
         private static SQLiteConnection connection = new SQLiteConnection(Conexion.cadena);
         private static Boolean blockConexion;

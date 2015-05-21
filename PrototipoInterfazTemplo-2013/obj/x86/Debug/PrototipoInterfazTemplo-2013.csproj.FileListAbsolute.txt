@@ -118,3 +118,5 @@ C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRe
 C:\Users\asus\Desktop\APUNTES\3º Año\INFORMATICA APLICADA\Templo-pepi\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\FORMATEO\Desktop\MATERIAS\Aplicada\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.exe
 D:\FORMATEO\Desktop\MATERIAS\Aplicada\Templo\TemploRepo\branches\develop\Templo\PrototipoInterfazTemplo-2013\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.pdb
+C:\Users\asus\Desktop\Templo\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.exe
+C:\Users\asus\Desktop\Templo\PrototipoInterfazTemplo-2013\obj\x86\Debug\PrototipoInterfazTemplo-2013.pdb
